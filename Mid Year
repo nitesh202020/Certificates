@@ -1,0 +1,56 @@
+
+MTBA:
+1. Restructured all APIs for better user understanding after UAT.
+2. Supported MTBA UAT (DE).
+3. Fixed PROD_MFG_XT_ODS.ET.EQUIP_ATTRIBUTE in MXA and backfilled the data.
+4. Performed data backfill and SQL fanout.
+5. Deployed and Optimized MTBA SQL Pipeline to other AT sites.
+6. Developed Pareto Analysis API and Chart Summary API from scratch.
+7. Analyzed DE-specific issues and Resolved API bugs.
+8. Implemented Pareto Analysis API to display the top 20 worst cases.
+9. Created Chart Summary API to show tool performance by equipment ID (in chart format).
+
+FDIS:
+1. Investigated missing data in FDIS Metrics to identify the source, specifically for STRATEGY_STATS.
+2. Working with Selina to create the Nifi pipeline for the Missing Data sources in MTB, MSB, MMP, MMY, MXA
+
+BACKLOADING:
+1. Set up the backload pipeline, Cloud function, Pubsub, and Bigquery development before deprioritization.
+2. Worked with Anthony to clear the requirements like what should be action items in case of same wafer was reprocessed, etc
+3. Optimize the backloading by only performing backload on a fraction of files 
+
+GCP & SNOWFLAKE:
+1. Redesigned the architecture for the TOWA and CSAM use cases due to the snowflake queue limit of 20 and successfully completed development
+2. Fixed the TOWA Snowflake INSPECTIONOID and DEFECTIVE_UNIT_COUNT data discrepancy.
+3. Resolved the CSAM OID duplicate issue.
+4. Fixed the CSAM data missing in snowflake.
+5. Updated the TOWA ADC Snowflake data xindex and yindex column mapping, considering the acceptance of new TOWA models.
+
+IGF:
+1. Integrated PWF ingestion and interdiction pipeline with IGF inference.
+2. Conducted ASM interdiction tests with partial update features.
+3. Performed AutoML end-to-end testing from DE Side including ingestion and interdiction timings.
+4. Decoupled PWF CAMTEK from other interdiction pipeline .
+5. Supported S2S IGF migration.
+
+ADC TOOLS:
+1. Integrated partial updates with the existing ASM/PWF pipeline.
+2. Updated Finebin and the ASM long inference code.
+3. Resolved the lot abort issue for tools CAMEGVT-0001 & CAMEAGT-0001.
+4. Supported the UAT for tools CAMEGVT-0001 & CAMEAGT-0001.
+5. Enhanced the PWF Ingestion Pipeline for No-Defect cases.
+6. Migrated NIFI MTB_ADC_Prod to the PROD Server.
+7. Analyzed historical time data for P2 updates.
+8. Supported BQ Dashboard changes.
+9. Assisted in the Backloading process and MES L2 troubleshooting.
+10. Set up the S2S source pipeline for ingestion on BOISE servers.
+
+ADC BUGS:
+1. Fixed the Die kill issue in the long inference and Model rules query to the Bigquery table.
+2. Resolved the issue of 14k+ files clogged in the MSB CSAM.
+3. Addressed the backload Towa clogged files.
+4. Investigated the cause of an empty image path in the Input PubSub Message (RCA).
+5. Identified the missing file name in the image path key of the Input PubSub Message.
+
+KBA:
+1. Added documentation and a flowchart for ASM Long inference interdiction.
