@@ -59,3 +59,54 @@ KBA:
 What progress have you made on individual performance goals from the start of the fiscal year? How does this contribution and quality of work impact the department and/or surrounding departments? What are your areas of focus for the remaining of the fiscal year and what support do you need?
 What progress have you made on development goals? What support do you need to successfully achieve your development goals? What modifications do you need to make to your development goals as you consider your career journey today?
 How have you demonstrated the attributes? What attributes are your strengths, and which are your areas of opportunity for growth? Attributes consist of Micron Values (People, Innovation, Tenacity, Collaboration & Customer Focus) and Leadership Attributes (Strategic Execution, Growth Mindset, Culture Vanguard & People Developer).
+
+
+
+
+1.My contributions have not only improved the efficiency and reliability of ADC+MTBA+FDIS but also supported UAT efforts, data backfilling, resolved data issues, optimized pipelines, and existential bugs.
+My quality of work has had a positive impact on the department and surrounding departments by enhancing data accuracy, streamlining processes, and enabling better decision-making through new Dashboard API like Pareto Analysis, Chart Summary API etc.
+My involvement in resolving data issues and optimizing pipelines, backloading processes has likely reduced downtime and improved overall system performance, benefiting all teams relying on these systems.
+As I look ahead to the remaining fiscal year, my areas of focus could include further optimization of existing pipelines, continuous improvement of data quality and reliability, and potentially exploring new technologies and methodologies to further enhance our pipelines capabilities. To support these goals, I may need access to additional resources, training on new tools or technologies, or collaboration with other teams to address specific challenges or requirements.
+
+2.
+I have made significant progress on my development goals. I have successfully executed a variety of tasks that involved API creation, restructuring, data backfilling, ensuring data quality, pipeline optimization, resolving data issues, and developing new functionalities. 
+These accomplishments demonstrate my technical proficiency, problem-solving skills, and ability to deliver high-quality solutions across different domains and technologies.
+
+To successfully achieve my development goals moving forward, I may need continued access to training resources, mentorship opportunities, and collaboration with cross-functional teams to stay updated on emerging technologies and industry best practices. Additionally, having a supportive work environment that encourages innovation, continuous learning, and knowledge sharing can further empower me to excel in my role and achieve my development goals.
+
+As I consider my career journey today, I might want to reflect on the following modifications to my development goals:
+
+1. Skill Diversification: While I've already demonstrated expertise in various technical areas, consider expanding my skill set to include emerging technologies or methodologies that align with my career aspirations and the evolving needs of the industry.
+
+2. Leadership and Collaboration: As I continue to grow professionally, consider taking on more leadership roles or cross-functional projects that require collaboration with diverse teams. This can help I develop essential soft skills, such as communication, team management, and stakeholder engagement, which are crucial for career advancement.
+
+3. Career Path Alignment: Evaluate whether my current development goals align with my long-term career aspirations and interests. If necessary, refine my goals to focus on areas that not only contribute to my professional growth but also align with my passion and career trajectory.
+
+By reflecting on these considerations and seeking the necessary support and resources, I can continue to make meaningful progress towards achieving my development goals and advancing my career in a direction that is both rewarding and fulfilling.
+
+3.
+1. People: I have demonstrated a strong commitment to supporting my team and collaborating with colleagues from other teams like MLE, DS, PDE. my involvement in prod deployment, code reviews, peer reviews, UAT support, data and pipeline fixes, pipeline monitoring and optimization tasks, migrating servers reflects my dedication to ensuring the success and well-being of my team project and members.
+2. Innovation: my development of new APIs from scratch, optimization of SQL/NIFI pipelines, code testing startegies, migrating startegies, designing architectures showcase my innovative mindset and ability to create impactful solutions to complex challenges.
+3. Tenacity: my persistence in resolving data discrepancies, investigating missing data sources, and addressing bugs, resolving code errors and issues across various projects demonstrates my tenacity and determination to overcome obstacles and deliver results.
+4. Collaboration: my collaboration with colleagues such as Selina, Anthony, Avinash, Pavan, Ashish and others on cross-functional projects and pipeline development highlights my ability to work effectively as part of a team and leverage collective expertise to achieve shared goals.
+5. Customer Focus: my focus on enhancing data accuracy, optimizing processes, and developing user-friendly APIs and analytical tools reflects my commitment to meeting customer needs and delivering value to end-users through high-quality solutions.
+
+Leadership Attributes:
+1. Strategic Execution: my involvement in Developing/restructuring APIs, optimizing pipelines, migrating servers and developing new functionalities aligns with strategic objectives and demonstrates my ability to execute projects effectively to achieve desired outcomes.
+2. Growth Mindset: my willingness to learn new technologies, tackle complex challenges, and continuously improve existing systems and processes reflects a growth mindset and a proactive approach to professional development.
+3. People Developer: While I have demonstrated strong technical skills and a collaborative spirit, focusing on mentoring and coaching junior team members or sharing my expertise with others can further strengthen my role as a people developer and contribute to the professional growth of my colleagues.
+4. Culture Vanguard: my active participation in helping my peers and colleagues with their struggle in both professional and personal space contributes to fostering a positive and collaborative work culture that values innovation, teamwork, and excellence.
+
+Strengths:
+- Innovation
+- Tenacity
+- Collaboration
+- Strategic Execution
+- Growth Mindset
+
+Areas of Opportunity for Growth:
+- People Development: Investing more time in mentoring and coaching junior team members or collaborating with colleagues to share knowledge and expertise can help enhance my skills as a people developer.
+- Customer Focus: While I have demonstrated a commitment to meeting customer needs through technical solutions, actively seeking feedback from end-users and incorporating it into my development process can further strengthen my customer focus and drive continuous improvement.
+By leveraging my strengths and proactively addressing areas for growth, I can continue to excel in my role, contribute meaningfully to my team and organization, and further develop the attributes associated with Micron Values and Leadership Attributes.
+
+
